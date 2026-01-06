@@ -39,11 +39,11 @@ pip install pandas numpy matplotlib seaborn xgboost shap ipython
 
 ## 🚀 Execution Options
 
-1. **The first python file is for very quick simple execution it is called "Ian Maxwell 3190 SHAP project - quick.py".** You will have to open the project in vscode (recommended) and ensure you have installed python and the libraries listed above.
+1. **The first python file is for very quick simple execution it is called "shap_analysis_quick.py".** You will have to open the project in vscode (recommended) and ensure you have installed python and the libraries listed above.
 
    - **Note:** The only issue here is that matploylib is not great at plotting the graphs using the SHAP library and thus some graphs will be cutoff. For perfect graphs you must do option 2.
 
-2. **For perfect SHAP graphs feel free to do this option although it requires a couple of more steps. This second file is called "Ian Maxwell 3190 SHAP project - Jupyter extension.ipnyb".**
+2. **For perfect SHAP graphs feel free to do this option although it requires a couple of more steps. This second file is called "shap_analysis_full.ipynb".**
    You will have to open the project in vscode (recommended).
 
    - **Jupyter Extension:** Ensure you have the Jupyter extension installed in VS Code. If not: Open VS Code, go to the Extensions view (Ctrl+Shift+X or Cmd+Shift+X on macOS) search for “Jupyter” (by Microsoft), and install it.
